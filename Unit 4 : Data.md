@@ -29,3 +29,7 @@ b. Anomalies
 3. Reassign variables and see if you can come up with your own story.
 4. Explore the link between education and population growth over time.  
 5. You can also explore rankings.
+
+# Moore's law is stated in the following
+
+![](https://lh3.googleusercontent.com/rbsAIo0DK2fzyb-h2uRpfjChjVNAHCyfBWN7gHP5MkP4vyDJXX-MgM2JO5qbOtK7C5pbFNUq-rI=w3797-h1885)
