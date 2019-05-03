@@ -18,3 +18,17 @@ Put anything you like here.
 
 How do you feel today? *
 Which best describes you (your answer should be the same every day)
+Great
+Good
+Meh
+Bad
+Terrible
+
+Which best describes you (your answer should be the same every day)
+Only Child
+Youngest Sibling
+Middle Sibling
+Oldest Sibling
+
+SUBMIT
+https://docs.google.com/forms/d/e/1FAIpQLSd_3ik65Rwe2THmmhMQbcWyPAAN878_f_rbopsP1NPEM7ruNw/viewform
