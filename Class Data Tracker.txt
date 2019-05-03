@@ -1,0 +1,20 @@
+Class Data Tracker
+
+A daily data journal for your class
+
+* Required
+
+How many hours did you sleep last night? *
+Put your best estimate
+
+How many hours did you work (e.g. do homework, or a job) after you left school? *
+Put your best estimate
+
+How many hours did you spend relaxing after you left school? *
+Put your best estimate
+
+What did you do to relax last night? *
+Put anything you like here.
+
+How do you feel today? *
+Which best describes you (your answer should be the same every day)
