@@ -1,6 +1,0 @@
-Welcome to the images section.
-
-Update Log
-
-May 3, 2019
-There are six new files used for the 1.4.2. See here.
